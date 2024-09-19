@@ -1,6 +1,7 @@
 <svelte:head>
   <style>
       @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
   </style>
 </svelte:head>
 
@@ -8,12 +9,12 @@
 
 <style>
   :global(:root){
-    --stroke: black; /* Font color */
-    --fill: #fdfcfa; /* Background color */
-    --accent1: #c9e2ef; /* Main color */
-    --accent2: #0b456c; /* Higlights color */
+    --stroke: rgb(2, 33, 12); /* Font color */
+    --fill: #fef7fd; /* Background color */
+    --accent1: #b17fb8; /* Main color */
+    --accent2: #000000; /* Higlights color */
     --mainfont: "Lato", sans-serif;
-    --headerfont: "Lato", sans-serif;
+    --headerfont: "Baskerville", serif;
     font-family: var(--mainfont);
   }
 

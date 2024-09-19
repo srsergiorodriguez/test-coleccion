@@ -1,5 +1,5 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,label,autor,fecha,link,ref,video
+AdriaenCollaert,America Tortuga,Adriaen Collaert,1586,https://srsergiorodriguez.github.io/zine/metadata,,5Ys6nQW1QnQ
+JohannSadeler,America Loro,Johann Sadeler,1581,https://srsergiorodriguez.github.io/zine/metadata,,5Ys6nQW1QnQ
+PhilipsGalle,America Composición,Philips Galle,1547,https://srsergiorodriguez.github.io/zine/metadata,PhilipsGalle2,5Ys6nQW1QnQ
+PhilipsGalle2,America Cabeza,Philips Galle,1585,https://srsergiorodriguez.github.io/zine/metadata,PhilipsGalle,5Ys6nQW1QnQ
